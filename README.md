@@ -1,4 +1,4 @@
-# Project 46: Data Analysis with Jupyter Notebook
+## Python-Data-Science-Project : Data Analysis with Jupyter Notebook
 
 ## 📂 Project Files
 - `project46.ipynb` — Jupyter Notebook containing the full data analysis.
